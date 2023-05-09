@@ -1,6 +1,6 @@
 # CRM  Project
 
-Kaggle link --> <a href="https://kaggle.com/https://www.kaggle.com/code/drfrank/crm-project-with-rfm-and-cohort-analysis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/drfrank" height="30" width="40" /></a>
+Kaggle link --> <a href="https://www.kaggle.com/code/drfrank/crm-project-with-rfm-and-cohort-analysis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/drfrank" height="30" width="40" /></a>
 
 
 # <p style="padding:10px;background-color:#D5CE98;margin:0;color:#006837;font-family:newtimeroman;font-size:100%;text-align:center;border-radius: 50px 50px;overflow:hidden;font-weight:800">Dataset Info</p>
